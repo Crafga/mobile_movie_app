@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/Crafga/mobile_movie_app/blob/master/assets/images/Screenshot.png" alt="Project Banner">
+      <img src="https://github.com/Crafga/mobile_movie_app/blob/master/assets/images/Screenshot.png" alt="Project Banner" width="50%">
   <br />
 
   <div>
