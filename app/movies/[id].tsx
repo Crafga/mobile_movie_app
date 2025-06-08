@@ -53,7 +53,7 @@ const Details = () => {
             source={{
               uri: `https://image.tmdb.org/t/p/w500${movie?.poster_path}`,
             }}
-            className="w-full h-[550px]"
+            className="w-full h-[620px]"
             resizeMode="stretch"
           />
 
